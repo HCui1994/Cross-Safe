@@ -14,6 +14,7 @@ python 3.5
 tensorflow >= 1.4  
 matplotlib  
 scikit-learn  
+jupyter  
 
 ## How to Use
 * Clone the repo to somewhere. Refer this folder as `$ROOT`
