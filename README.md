@@ -9,11 +9,11 @@ The dataset used contains over 7,000 images collected by volunteers from New Yor
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
-python 3.5  
-tensorflow >= 1.4  
-matplotlib  
-scikit-learn  
-jupyter notebook - IPython 
+* python 3.5  
+* tensorflow >= 1.4  
+* matplotlib  
+* scikit-learn  
+* jupyter notebook - IPython 
 
 ## How to Use
 * Clone the repo to somewhere. Refer this folder as `$ROOT`
