@@ -7,7 +7,7 @@ A custom image library was built and developed to train, validate, and test our 
 The dataset used contains over 7,000 images collected by volunteers from New York City with Zed camera. Most images contain one pedestrian light located near the center. We manually annotated the images by providing a bounding box and a class label for each traffic light. These images are captured from New York City streets and contain common street scenes like cars, trees, buildings, and pedestrians etc.
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ### Prerequisites
 python 3.5  
